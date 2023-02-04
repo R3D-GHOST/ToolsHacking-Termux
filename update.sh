@@ -60,8 +60,6 @@ sleep 1
 
 pip3 install -r requeriments.txt
 
-python3 SMS.py
-
 cd ../
 
 pkg install proot
